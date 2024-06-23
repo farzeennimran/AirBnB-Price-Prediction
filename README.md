@@ -1,6 +1,6 @@
 # AirBnB Price Prediction
 
-By harnessing the power of predictive modeling techniques, we can unlock insights into pricing dynamics that facilitate informed decision-making for hosts and guests alike, ultimately enhancing the Airbnb experience for all stakeholders
+By harnessing the power of predictive modeling techniques, we can unlock insights into pricing dynamics that facilitate informed decision-making for hosts and guests alike, ultimately enhancing the Airbnb experience for all stakeholders.
 
 ## Data source
 The dataset used in this project was sourced from Kaggle and comprises 29 features and over 74,000 rows. The dataset encompassed numerical, categorical, text, and boolean features, providing a rich array of information for analysis.
